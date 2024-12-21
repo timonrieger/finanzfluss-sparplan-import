@@ -30,6 +30,8 @@ def generate_custom_dates(start_date, end_date, interval_value, day_of_execution
     
     while current <= end:
         if current.day == day_of_execution:
+            if current.weekday() in [5, 6]:
+                current = current + timedelta(days=7-current.weekday())
             dates.append(current.strftime("%Y-%m-%d"))
         
         for _ in range(interval_value):
