@@ -32,22 +32,14 @@ Als ich meinen Account eingerichtet habe, wollte ich mein Depot einpflegen, das 
 - Keine Garantie auf Fehlerfreiheit
 - Unterstützt nur Monatsintervalle, keine wöchentlichen Sparpläne
 
-Das Skript soll dir die lästige Arbeit abnehmen, jede einzelne Sparplan-Transaktion manuell einzufügen.
-
-## Ergebnis
-
-Das kannst du erwarten...
-Video
-
 ## Python installieren
 
 Die einzige Voraussetzung ist der Download von Python. Wähle eine stabile Version zwischen 3.10 und 3.12. Achte auf das richtige Betriebssystem! [Windows](https://www.python.org/downloads/windows/), [Linux/UNIX](https://www.python.org/downloads/source/), [macOS](https://www.python.org/downloads/macos/), [Andere](https://www.python.org/download/other/)
 
 ## Ausführliche Erklärung
 
-Nun zur ausführlichen Erklärung mittels Video...
-Video
-
+Hier wird ein Sparplan simuliert, der alle zwei Monate am achten Tag des Monats vom 1. April 2010 bis heute mit 100€ auf der ISIN DE0008476524 ausgeführt wird.
+[![Watch the video](https://img.youtube.com/vi/e5dApx6lFcs/maxresdefault.jpg)](https://youtu.be/e5dApx6lFcs)
 ### Code-Befehle aus dem Video
 
 1. Erstelle eine virtuelle Umgebung
@@ -55,8 +47,13 @@ Video
 python -m venv .venv
 ```
 2. Aktiviere die virtuelle Umgebung
+For Mac:
 ```bash
 source .venv/bin/activate
+```
+For Windows:
+```bash
+.venv\Scripts\activate
 ```
 3. Installiere die Code-Abhängigkeiten, die das Skript zur Ausführung braucht
 ```bash
@@ -64,7 +61,7 @@ pip install -r requirements.txt
 ```
 4. Führe das Skript aus
 ```bash
-python3 -m main
+python -m main
 ```
 
 ## Lizenz
