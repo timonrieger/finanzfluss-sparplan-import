@@ -19,6 +19,7 @@ Als ich meinen Account eingerichtet habe, wollte ich mein Depot einpflegen, das 
 
 - Anpassbare Sparplanintervalle (z.B. jeden Monat, jedes halbe Jahr)
 - Anpassbares Ausführungsdatum (z.B. fünfter Tag des Monats)
+- Berücksichtigt Wochenenden (https://github.com/timonrieger/finanzfluss-sparplan-import/issues/1)
 - Berechnet die gekaufte Stückzahl basierend auf Sparrate und Asset-Preis zu dem Datum
 - Kein Direktzugriff auf deinen Copilot-Account
 - Logischerweise werden keine Daten irgendwo gespeichert
