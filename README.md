@@ -13,7 +13,7 @@ Mit diesem Tool kannst du Sparplan-Transaktionen automatisiert in den Finanzflus
 
 ## Motivation
 
-Als ich meinen Account eingerichtet habe, wollte ich mein Depot einpflegen, das meine Eltern während meiner Kindheit bespart haben. Das Depot war bei einer altmodischen Bank, und Finanzfluss bot keine Schnittstelle an. Daher habe ich dieses Skript geschrieben, um meine Transaktionen über die Wealth API zu importieren.
+Mein Depot war bei einer altmodischen Bank, und Finanzfluss bot keine Schnittstelle an. Daher habe ich dieses Skript geschrieben, um meine Transaktionen über die Wealth API zu importieren.
 
 ## Funktionen
 
