@@ -41,7 +41,7 @@ Die einzige Voraussetzung ist der Download von Python. Wähle eine stabile Versi
 
 Hier wird ein Sparplan simuliert, der alle zwei Monate am achten Tag des Monats vom 1. April 2010 bis heute mit 100€ auf der ISIN DE0008476524 ausgeführt wird.
 
-[📹 Video ansehen](https://link.storjshare.io/s/jvje6ppnxjkcmonfyqm3zmig35ta/public/How%20To%EF%BC%9A%20Sparplan%20Import%20fu%CC%88r%20Finanzfluss%20Copilot.mp4)
+[📹 Video ansehen](https://share.timonrieger.de/how-to-finanzfluss-import.mp4)
 
 ### Code-Befehle aus dem Video
 
